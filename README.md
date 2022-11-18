@@ -1,4 +1,4 @@
-I’m currently learning to be a web developer. 
+I’m currently learning to be a fullstack software developer. 
 
 <!---
 danieljimenezcr/danieljimenezcr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
