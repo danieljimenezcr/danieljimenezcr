@@ -1,9 +1,6 @@
 # Hi, i am Daniel Jimenez!
 Learning to be a Fullstack Software and Web Developer 💻 
 
-Also i have knowledge with differentes CMS like Joomla and Wordpress.
-
-
 
 ### Tech Preferences
 
