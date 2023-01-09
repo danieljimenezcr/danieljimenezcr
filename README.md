@@ -1,6 +1,6 @@
 # Hi, i am Daniel Jimenez!
-💫 About Me:
-💻 I'm currently learning to be a Fullstack Software and Web Developer 
+# 💫 About Me:
+I'm currently learning to be a Fullstack Software and Web Developer 
 
 
 ## 🌐 Socials:
