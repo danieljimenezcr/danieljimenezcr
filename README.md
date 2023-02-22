@@ -1,6 +1,6 @@
 # Hi, i am Daniel Jimenez!
 # 💫 About Me:
-I'm a Fullstack Software Developer with expertise in Front-End. In my free time, i love playing video games and experimenting with personal projects.
+I'm a Fullstack Software Developer with expertise in Front-End. In my free time, I love playing video games and experimenting with personal projects.
 
 I'm looking for opportunities to work as a Front-End Developer, to expand my knowledge and skill set, and contribute to dynamic teams focused on creating impactful solutions.
 
