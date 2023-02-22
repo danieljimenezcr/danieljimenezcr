@@ -1,8 +1,8 @@
 # Hi, i am Daniel Jimenez!
 # 💫 About Me:
-I'm currently learning to be a Fullstack Software with expertise in Front-End , and i'm looking for oportunity to work in a project as a Fron-End, in my free time, i love playing video games and experimenting with personal projects.
+I'm currently learning to be a Fullstack Software with expertise in Front-End. In my free time, i love playing video games and experimenting with personal projects.
 
-I'm looking for opportunities to expand my knowledge and skill set, and contribute to dynamic teams focused on creating impactful solutions.
+I'm looking for opportunities to work as a Front-End Developer, to expand my knowledge and skill set, and contribute to dynamic teams focused on creating impactful solutions.
 
 
 ## 🌐 Socials:
