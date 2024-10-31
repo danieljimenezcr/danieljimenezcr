@@ -1,8 +1,12 @@
-# Hi, i am Daniel Jimenez!
-# 💫 About Me:
-I'm a Fullstack Software Developer with expertise in Front-End. In my free time, I love playing video games and experimenting with personal projects.
+# Hi, I'm Daniel Jimenez!
+## 💫 About Me:
+I'm a Fullstack Software Developer with a passion for Front-End development and QA. Outside of work, I enjoy diving into video games and exploring personal tech projects.
 
-I'm looking for opportunities to work as a Front-End Developer, to expand my knowledge and skill set, and contribute to dynamic teams focused on creating impactful solutions.
+As a developer, I am enthusiastic about joining a creative team where I can bring my skills in building responsive and engaging user interfaces to life. My focus is on delivering high-quality solutions that enhance user experiences and drive impact. Let's build something amazing together!
+
+## 📫 Get in Touch
+Feel free to reach out! I'm always open to connecting:
+**[hello@daniel-jimenez.dev](mailto:hello@daniel-jimenez.dev)**
 
 
 ## 🌐 Socials:
