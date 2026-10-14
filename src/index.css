@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global styles for the dark theme */
+html, body, #root {
+  height: 100%;
+}
+body {
+  @apply bg-gray-900 text-gray-100 antialiased;
+}
+
+/* Simple container utility */
+.container {
+  @apply max-w-5xl mx-auto px-4;
+}
